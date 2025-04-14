@@ -4,7 +4,7 @@ An immersive and interactive 3D portfolio website built with Three.js and React,
 
 ## 🌟 Live Demo
 
-[View the live site]()
+[View the live site](https://3d-portfolio-bay-phi.vercel.app/)
 
 ## 🤖 Introduction
 
